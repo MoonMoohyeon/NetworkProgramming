@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="networkProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/problem2023.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
